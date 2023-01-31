@@ -1,0 +1,1 @@
+LDR sensörü ile belirli bir seviyenin altına indğinde led'in yanmasını sağlar.
