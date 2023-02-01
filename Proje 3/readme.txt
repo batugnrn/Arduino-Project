@@ -1,0 +1,1 @@
+MQ-2 gaz sensörü ile eşik değere ulaştığı zaman buzzer'ın ses vermesini sağlayan devre.
