@@ -1,0 +1,1 @@
+DHT11 sensörü ile serial mönitörden sıcaklık ve nem değerlerini okuma uygulaması.
