@@ -1,0 +1,1 @@
+HC-SR04 sensöründen alınan uzaklık verisinin LCD ekrana yazdırılmasını sağlayan uygulama.
